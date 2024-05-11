@@ -19,7 +19,7 @@ public class Main {
 //            }
         for (int i=10; i>=1; i--){
             System.out.println(i+(") Hello Java"));
-            // son comment
+            // son comment agdasdasd
             }
 
         }
